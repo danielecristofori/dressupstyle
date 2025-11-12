@@ -5,14 +5,14 @@ app:
   #featured: Featured in
 
 footer:
-  #copyright: Made by <a href="https://bento.me/mobiledevpro" target="_blank">Dmitri Chernysh</a>
+  copyright: Made by Daniele Cristofori
   links:
     - title: Instagram
-      url: https://instagr.am/mobiledevpro?utm_source=neonframe_landing
+      url: https://www.instagram.com/dressup_style_ai/?utm_source=dressup_landing
       target: _blank
-    - title: YouTube
-      url: https://youtube.com/@mobiledevpro?utm_source=neonframe_landing
-      target: _blank
+    # - title: YouTube
+    #   url: https://youtube.com/@mobiledevpro?utm_source=neonframe_landing
+    #   target: _blank
     - title: Privacy
       url: /privacy
     - title: Terms

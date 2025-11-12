@@ -4,70 +4,108 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
+# **Privacy Policy**
 
-**Privacy Policy**
+This Privacy Policy explains how **DressUp** ("we", "our", or "us") collects, uses, and protects your personal data in accordance with the **General Data Protection Regulation (GDPR)** and other applicable privacy laws.
 
-Dmitri Chernysh built the "Neon Frame" app as a Freemium app. This SERVICE is provided by Dmitri Chernysh at no cost and is intended for use as is.
+---
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+## 1. Data We Collect
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+We may collect the following categories of data:
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Neon Frame unless otherwise defined in this Privacy Policy.
+- **Personal Data**: Email address, name, surname, gender (optional), date of birth (optional).  
+- **User Content**: Uploaded clothing images, saved and rated outfits.  
+- **Transaction Data**: In-app purchases and subscriptions (via Google Play or App Store).  
+- **Device Data**: Device model, operating system, advertising ID (IDFA or GAID).  
+- **Location Data**: Optional location data, which can be updated manually by the user.
 
-**Information Collection and Use**
+---
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+## 2. Purpose of Data Collection
 
-The app does use third-party services that may collect information used to identify you.
+We collect and process your data to:
 
-Link to the privacy policy of third-party service providers used by the app
+- Provide personalized outfit recommendations  
+- Enhance and improve the user experience  
+- Manage purchases and subscriptions  
+- Send optional service communications  
+- Ensure technical functionality and security
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+---
 
-**Log Data**
+## 3. Third-Party Services
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+We use third-party services that may process certain user data to provide our Service effectively:
 
-**Cookies**
+- [Firebase](https://firebase.google.com/support/privacy) — authentication, database, storage, analytics  
+- [Sentry](https://sentry.io/privacy/) — error monitoring  
+- [Google Maps](https://policies.google.com/privacy) — manual location selection  
+- [StoreKit / Google Play Billing](https://play.google.com/about/play-terms/) — in-app purchases and subscriptions
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Each third party processes your data in accordance with their own privacy policy.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+---
 
-**Service Providers**
+## 4. Legal Basis
 
-I may employ third-party companies and individuals due to the following reasons:
+We process your personal data based on:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+- **Your consent** (e.g., when you register or upload content)  
+- **The necessity to perform a contract**, such as providing the core app services  
+- **Our legitimate interests**, such as improving the app or ensuring security
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+---
 
-**Security**
+## 5. Data Retention
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+- Your data is retained only for as long as necessary to fulfill the purposes outlined above.  
+- If you request account deletion, all associated data will be **permanently deleted within 24 months**.  
+- Inactive accounts are subject to deletion after a long period of inactivity, in compliance with our data retention policy.
 
-**Links to Other Sites**
+---
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## 6. User Rights
 
-**Children’s Privacy**
+Under the GDPR, you have the right to:
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+- Access your personal data  
+- Rectify incorrect or outdated data  
+- Request deletion of your account and all related information  
+- Withdraw consent at any time  
 
-**Changes to This Privacy Policy**
+To exercise your rights, please contact us at  
+📩 [support@dressupstyle.ai](mailto:support@dressupstyle.ai)
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+---
 
-This policy is effective as of 2024-01-09
+## 7. Children’s Privacy
 
-**Contact Us**
+DressUp is **not intended for users under the age of 13**.  
+We do not knowingly collect personal information from children under 13 years of age.  
+If we learn that a child has provided us with personal information, we will promptly delete it.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@mobile-dev.pro.
+---
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+## 8. Security
+
+We take reasonable technical and organizational measures to protect your personal data.  
+However, please note that no method of electronic storage or transmission over the Internet is 100% secure, and we cannot guarantee absolute protection.
+
+---
+
+## 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.  
+Any significant changes will be communicated via the app or by email.
+
+---
+
+## 10. Contact
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:  
+📩 [support@dressupstyle.ai](mailto:support@dressupstyle.ai)
+
+---
+
+© {{ site.time | date: "%Y" }} **DressUpStyle.ai** — All rights reserved.
