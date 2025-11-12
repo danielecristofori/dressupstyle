@@ -4,8 +4,6 @@ title: Terms and Conditions
 permalink: /terms/
 ---
 
-# **Terms and Conditions**
-
 By using **DressUp** ("the App", "we", "our", or "us"), you agree to the following terms and conditions. Please read them carefully.
 
 ---

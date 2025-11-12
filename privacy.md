@@ -4,8 +4,6 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# **Privacy Policy**
-
 This Privacy Policy explains how **DressUp** ("we", "our", or "us") collects, uses, and protects your personal data in accordance with the **General Data Protection Regulation (GDPR)** and other applicable privacy laws.
 
 ---
