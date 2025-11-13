@@ -1,11 +1,11 @@
 app:
   screenshots: Screenshots
-  description: Changelog
+  description: Description
 
   #featured: Featured in
 
 footer:
-  copyright: Made by Daniele Cristofori
+  copyright: Made by <a href="https://www.linkedin.com/in/danielecristofori/" target="_blank">Daniele Cristofori</a>
   links:
     - title: Instagram
       url: https://www.instagram.com/dressup_style_ai/?utm_source=dressup_landing

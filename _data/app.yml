@@ -1,11 +1,15 @@
 name: DressUp Style AI
-description: Discover your digital wardrobe and personal stylist. DressUp Style AI creates fashion-perfect outfits based on your clothes, weather, and mood — helping you make smarter, more sustainable style choices every day.
-full_description: '<b>v1.2.2 (Nov 7, 2025)</b><br>
-<br>- You can now rearrange the clothes inside your outfit.
-<br>- After taking a photo, you can crop only the part containing the clothing item.
-<br>- You can now change clothing colors after uploading.
-<br>- Visual improvements across the app.
-<br>- Various bug fixes and performance enhancements.'
+description: Discover your digital wardrobe and AI stylist. DressUp creates outfits from your real clothes, weather, and mood to help you wear more of what you already own.
+full_description: "<b>Your AI-powered wardrobe and personal stylist</b><br>
+<br>DressUp Style AI creates personalized outfits based on your real clothes, local weather, and mood so you always know what to wear.<br>
+<br><b>What you can do with DressUp</b><br>
+• Scan and digitize your wardrobe with automatic background removal and smart tags (category, color, season, fabric, and more).<br>
+• Let the AI stylist create context-aware outfits for work, dates, weekends, and special occasions, learning from your ratings and preferences.<br>
+• Try looks on a virtual avatar with Virtual Try-On before you get dressed.<br>
+• Organize your closet into custom lists and collections like Summer, Office, Minimal, or Weekend.<br>
+• Get weather-ready outfits that adapt to temperature, rain chance, and sky conditions using your GPS or a manual location.<br>
+<br><b>Smarter, more sustainable style</b><br>
+DressUp helps you rediscover and combine what you already own, reduce impulse purchases, and build a wardrobe that truly works for your everyday life."
 android: https://play.google.com/store/apps/details?id=com.daniele.dressup
 iOS: https://apps.apple.com/app/dressup-style-ai/id6746646997
 web: false
