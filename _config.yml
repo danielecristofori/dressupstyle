@@ -6,7 +6,7 @@
 title: DressUp Style AI
 email: support@dressupstyle.ai
 description: DressUp makes fashion smarter, personal, and more sustainable.
-baseurl: "dressupstyle" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dressupstyle.ai" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
 author: Daniele Cristofori
