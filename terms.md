@@ -4,79 +4,70 @@ title: Terms and Conditions
 permalink: /terms/
 ---
 
-By using **DressUp** ("the App", "we", "our", or "us"), you agree to the following terms and conditions. Please read them carefully.
+Last updated: **5 August 2026**
+
+These Terms govern your use of **DressUp**. By creating an account or using the app, you agree to them and to our [Privacy Policy](/privacy/).
 
 ---
 
-## 1. Use of the App
+## 1. Eligibility and Account
 
-The App is provided for personal and non-commercial use only.  
-You agree not to misuse the app or attempt to access its backend systems in an unauthorized manner.
+You must be at least **13 years old** to create an account. If the law where you live requires a higher age or parental authorization, you may use DressUp only after meeting that requirement.
 
----
+You must provide accurate account information, keep your credentials secure and promptly tell us about suspected unauthorized access. You are responsible for activity performed through your account unless applicable law provides otherwise.
 
-## 2. User Responsibility
+## 2. Permitted Use
 
-- You are responsible for the information and content you upload to the app (e.g., clothing images, preferences).  
-- You are responsible for keeping your login credentials secure.  
-- You must be the rightful owner of the images and content you upload, or have permission to use them.
+DressUp is provided for personal, non-commercial use. You may not misuse the service, interfere with its operation, bypass security or purchase controls, scrape or reverse-engineer protected parts of the service, or use it in violation of law or another person's rights.
 
----
+## 3. Your Content
 
-## 3. Suggestions and Style Advice
+You retain your rights in content you upload. You grant us a limited licence to host, process, reproduce and transmit that content only as needed to operate, secure and improve the service and provide the features you request.
 
-DressUp provides outfit suggestions based on your wardrobe and preferences.  
-These are purely **suggestions**, and we are not responsible for any consequences, decisions, or results based on those suggestions.
+You must own the content or have permission to use it. Do not upload unlawful, infringing, abusive or unnecessarily sensitive content. Some requested AI and image features require content to be processed by the providers described in the Privacy Policy.
 
----
+## 4. AI and Style Suggestions
 
-## 4. Purchases and Subscriptions
+DressUp generates automated style suggestions and visual results that may be inaccurate, incomplete or unsuitable. Results are for inspiration and entertainment, not professional advice or a guarantee of appearance, fit, availability or outcome. Review results before relying on them.
 
-- The App may offer **in-app purchases** and **subscriptions** (e.g., Silver and Gold plans).  
-- Payments are processed via **Google Play** or **Apple App Store**, depending on your platform.  
-- You are responsible for managing your subscription, including cancellations or renewals.  
-- No refunds are guaranteed except as required by law or by the store’s policy.
+## 5. Premium, StyleCoins and Purchases
 
----
+DressUp may offer a **Premium subscription** and consumable **StyleCoins** through Apple App Store or Google Play:
 
-## 5. Intellectual Property
+- prices, billing period, trial availability and included benefits are shown in the store purchase screen before confirmation;
+- subscriptions renew automatically unless cancelled through your Apple or Google account within the period shown by the store;
+- deleting the app does not cancel a subscription;
+- StyleCoins are a limited, non-transferable in-app entitlement, have no cash value and may be used only for eligible DressUp features;
+- purchases, renewals, cancellations, restoration and refunds are processed under the applicable store rules and mandatory law;
+- a free trial, promotion or introductory offer may be limited to eligible users and may change or end as permitted by the store rules.
 
-All content and code of **DressUp** (excluding your uploaded items) are the intellectual property of **DressUpStyle.ai**.  
-You may not copy, modify, distribute, or reverse-engineer any part of the app.
+## 6. Intellectual Property
 
----
+DressUp, its software, branding, designs and service content—excluding your content and third-party materials—are owned by DressUpStyle.ai or its licensors. These Terms do not transfer ownership to you.
 
-## 6. Termination
+## 7. Availability and Changes
 
-We reserve the right to suspend or terminate access to the app at any time for violations of these terms or misuse of the service.
+We may maintain, update, modify or discontinue features to improve or secure the service, comply with law or adapt to provider availability. We do not guarantee uninterrupted or error-free operation. Where required, material changes affecting paid services will be communicated appropriately.
 
----
+## 8. Suspension and Termination
 
-## 7. Disclaimer
+We may restrict or suspend access when reasonably necessary to address fraud, abuse, security threats, unlawful activity or serious violations of these Terms. You may stop using DressUp at any time. Rights and obligations that by their nature should survive termination will continue to apply.
 
-The App is provided **"as is"**, without warranties of any kind.  
-We do not guarantee that the app will always be error-free or available.
+## 9. Disclaimers and Liability
 
----
+To the fullest extent permitted by applicable law, DressUp is provided "as is" and "as available". Nothing in these Terms excludes rights or remedies that cannot legally be excluded, including mandatory consumer protections. We are not responsible for losses caused by events outside our reasonable control or by misuse of the service.
 
-## 8. Changes to These Terms
+## 10. Governing Law
 
-We may update these Terms from time to time.  
-Continued use of the app after any changes means you accept the new terms.
+These Terms are governed by the laws applicable in Italy, without limiting mandatory consumer rights or jurisdiction rules that apply in your country of residence.
 
----
+## 11. Changes to These Terms
 
-## 9. Governing Law
+We may update these Terms to reflect product, provider or legal changes. We will revise the date above and provide additional notice when required. If you do not agree with a material update, you should stop using the service.
 
-These terms are governed by the **laws of the European Union**.  
-Any disputes will be handled in accordance with applicable EU law.
+## 12. Contact
 
----
-
-## 10. Contact
-
-If you have any questions, please contact us at:  
-📩 [support@dressupstyle.ai](mailto:support@dressupstyle.ai)
+Email: [support@dressupstyle.ai](mailto:support@dressupstyle.ai)
 
 ---
 
